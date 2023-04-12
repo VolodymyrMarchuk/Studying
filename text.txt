@@ -1,0 +1,1 @@
+tested program about writing texts to file!
